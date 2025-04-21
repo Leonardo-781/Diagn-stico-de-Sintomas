@@ -1,1 +1,1 @@
-# Diagn-stico-de-Sintomas
+# Diagnostico-de-Sintomas
