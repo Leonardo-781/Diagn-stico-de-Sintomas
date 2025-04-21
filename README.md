@@ -9,6 +9,7 @@ Nome do Projeto: Diagnostico-de-Sintomas
 Objetivo: A ideia é ajudar você a descobrir o que pode estar acontecendo com seu corpo, mas de um jeito tão divertido que você pode esquecer que está doente! Ou, quem sabe, só vai te fazer rir enquanto você tenta entender se é um resfriado ou uma crise de risadas.
 
 Estrutura do Repositório
+
 Simples.
 
 Tecnologias Usadas
